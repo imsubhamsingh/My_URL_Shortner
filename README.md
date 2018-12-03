@@ -1,6 +1,6 @@
 # My_URL_Shortner
 A fast and efficient URL shoortner made in python that can  able to store a lot of links
-#Design Goals
+## Design Goals
 Here's what we came up with:
 
 1. We should be able to store a lot of links, since we're not automatically expiring them.
